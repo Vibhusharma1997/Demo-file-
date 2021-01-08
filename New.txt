@@ -1,3 +1,5 @@
 Geeting satrted with GITHUB
 --
 ADDING NEW FILES
+--- 
+cheking for 2nd commit
